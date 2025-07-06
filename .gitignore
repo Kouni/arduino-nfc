@@ -1,0 +1,43 @@
+# Arduino IDE files
+*.ino.hex
+*.ino.elf
+*.ino.eep
+*.ino.with_bootloader.hex
+
+# Build directory
+build/
+
+# Arduino IDE backup files
+*.bak
+*~
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependency directories
+libraries/
+
+# Arduino IDE preferences
+preferences.txt
+
+# Claude Code project files
+CLAUDE.md
